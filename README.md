@@ -31,7 +31,7 @@ The dataset source is [here](https://www.kaggle.com/sid321axn/amazon-alexa-revie
       python app.py
       
 * Look for the local host address on the Powershell screen >> Type it on your Web Browser >> Project shall load
-* Try out your Amazon Alexa test reviews and look for results
+* Try out Amazon Alexa test reviews and look for results
 * To close >> Go back to Powershell & type `ctrl+c` >> Deactivate Virtual Environment ENV
 
       deactivate
