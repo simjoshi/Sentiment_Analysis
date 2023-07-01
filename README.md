@@ -36,3 +36,8 @@ The dataset source is [here](https://www.kaggle.com/sid321axn/amazon-alexa-revie
 
       deactivate
 
+## Demonstration Video Link:
+https://drive.google.com/file/d/1S4ROcYNluEBgL2kPPLWKME1oENpauIka/view?usp=drive_link
+
+## Project Report Link
+https://docs.google.com/document/d/1QunrACPbxbO98aiODa6s5AbpoCi15-IacK5jMrB_57E/edit
